@@ -2,7 +2,7 @@
 
 A demo project that solve the Game of Life  kata by implementing Unit Test using XCTest framework of Apple.
 
- ## Requirement 
+ ## Requirements 
 * Xcode 11.3
 * Mac Os Catalina
 * Swift 5
